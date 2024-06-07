@@ -1,6 +1,6 @@
 # Pokémon Dataset Analysis
 
-![Pokémon](pokemon_image.jpg)
+![Pokémon]([pokemon_image.jpg](https://blog.looglebiz.com/wp-content/uploads/2022/10/og-default-image.jpeg))
 
 Welcome to the Pokémon Dataset Analysis project! This repository contains code and resources for exploring the Pokémon dataset, uncovering interesting insights, and building predictive models to classify Pokémon as legendary or non-legendary based on their attributes.
 
