@@ -34,4 +34,4 @@ The dataset consists of the following attributes:
 
 Some attributes in the dataset may contain missing values. These missing values have been handled during the data preprocessing phase to ensure the integrity and completeness of the dataset for analysis and modeling.
 
-For more detailed information about the dataset, refer to the original data source.
+For more detailed information about the dataset, refer to the original data source. The dataset can be accessed from the file `pokemon.csv`.
