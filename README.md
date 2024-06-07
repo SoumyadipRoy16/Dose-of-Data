@@ -1,6 +1,6 @@
 # Pokémon Dataset Analysis
 
-![Pokémon](https://www.pngall.com/wp-content/uploads/13/Pokemon-Logo-PNG-Pic.png)
+![Pokémon](https://th.bing.com/th/id/R.47a1d156d66e212e36d90283e7937105?rik=d3tC9e0nsyTANg&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f4%2fPokemon-Pokeball-PNG-Photo.png&ehk=0lMa1H6fHlftL%2bD6jlEpAhhsv2mh2QerJM9VyHRBkG0%3d&risl=&pid=ImgRaw&r=0)
 
 Welcome to the Pokémon Dataset Analysis project! This repository contains code and resources for exploring the Pokémon dataset, uncovering interesting insights, and building predictive models to classify Pokémon as legendary or non-legendary based on their attributes.
 
