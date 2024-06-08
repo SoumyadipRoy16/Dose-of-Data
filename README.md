@@ -27,7 +27,3 @@ To run the analysis notebook locally, follow these steps:
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Open the Jupyter Notebook (`dose-of-data-soumyadip.ipynb`) using Jupyter or any compatible environment.
 4. Execute the code cells in the notebook sequentially to perform data analysis, visualization, and model building.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
